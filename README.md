@@ -1,5 +1,5 @@
 # **🌍 ExoTrip – The Future of Smart Travel Management 🚀** 
-#Under Development
+##Under Development
 
 **ExoTrip** is a futuristic **AI-powered Travel Agency Management System** designed to revolutionize trip planning, automate bookings, and provide seamless travel experiences.  
 
